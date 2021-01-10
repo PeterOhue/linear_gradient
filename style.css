@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+@media (min-width: 790px) {
+    body {
+    background-image: linear-gradient(white, blue, green);
+    }
+}
+@media (max-width: 789px) {
+    body {
+    background-image: linear-gradient(yellow, pink, purple);
+    }
+}
